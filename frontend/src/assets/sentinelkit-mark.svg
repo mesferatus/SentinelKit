@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">SentinelKit</title>
+  <path d="M64 12 105 27v31c0 28-16 49-41 61C39 107 23 86 23 58V27L64 12Z"
+        fill="none" stroke="#119fbe" stroke-width="9" stroke-linejoin="round"/>
+  <circle cx="64" cy="57" r="13" fill="#119fbe"/>
+  <path d="M64 68v22" fill="none" stroke="#119fbe" stroke-width="9" stroke-linecap="round"/>
+</svg>

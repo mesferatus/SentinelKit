@@ -1,0 +1,63 @@
+# Ambiente, segredos e bancos locais
+.env
+.env.*
+.env.example
+*.env.local
+*.pem
+*.key
+*.crt
+*.p12
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+sentinelkit*.db*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+api/build/
+api/dist/
+api/*.spec
+
+# Node, Vite e empacotamento
+node_modules/
+dist/
+frontend/dist/
+release/
+frontend/build/icon.ico
+coverage/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs e temporários
+*.log
+logs/
+tmp/
+temp/
+.pytest-tmp-hardening/
+artifacts/
+*.bak
+
+# Editores e sistema operacional
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Artefatos locais
+.cache/

@@ -1,0 +1,12 @@
+.env
+.env.*
+node_modules/
+dist/
+coverage/
+.vite/
+*.log
+*.tsbuildinfo
+src/tests/
+__snapshots__/
+.git/
+.gitignore
