@@ -164,5 +164,5 @@ Antes de publicar ou apresentar, é recomendado abrir o aplicativo no tamanho re
 ---
 
 <p align="center">
-  Feito para estudar segurança com cuidado, responsabilidade e um pouco de fofura.
+  Feito para estudar segurança com cuidado e café.
 </p>
